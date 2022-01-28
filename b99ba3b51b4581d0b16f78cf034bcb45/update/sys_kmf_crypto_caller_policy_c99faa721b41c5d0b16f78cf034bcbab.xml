@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <crypto_module display_value="glide_encrypter">f566cacc5b32a0100c50534be281c7dc</crypto_module>
+        <crypto_spec/>
+        <instance_recipient/>
+        <owner>6833e2dedbed7f4442b321c4059619fb</owner>
+        <policy_name>AutoGen-allow-sn_twitter_spoke.glide_encrypter</policy_name>
+        <result>allow_apis</result>
+        <script_hash/>
+        <script_table/>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2022-01-18 14:36:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c99faa721b41c5d0b16f78cf034bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AutoGen-allow-sn_twitter_spoke.glide_encrypter</sys_name>
+        <sys_package display_value="AutoTweet" source="x_snc_autotweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AutoTweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_c99faa721b41c5d0b16f78cf034bcbab</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2022-01-18 14:36:15</sys_updated_on>
+        <target_role/>
+        <target_scope/>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>

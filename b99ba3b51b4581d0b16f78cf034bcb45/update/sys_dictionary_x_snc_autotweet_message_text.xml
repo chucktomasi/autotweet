@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="message" table="x_snc_autotweet_message">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="text" table="x_snc_autotweet_message">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true,no_truncate=true</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Message</column_label>
+        <column_label>Text</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,13 +22,13 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>message</element>
+        <element>text</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>280</max_length>
         <name>x_snc_autotweet_message</name>
         <next_element/>
@@ -52,18 +47,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>chuck.tomasi</sys_created_by>
-        <sys_created_on>2022-01-15 16:29:48</sys_created_on>
+        <sys_created_on>2022-01-15 16:44:32</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>9a7cab791b4581d0b16f78cf034bcbb1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Message</sys_name>
+        <sys_id>be207ffd1b4581d0b16f78cf034bcb14</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Text</sys_name>
         <sys_package display_value="AutoTweet" source="x_snc_autotweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="AutoTweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_autotweet_message_message</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_autotweet_message_text</sys_update_name>
         <sys_updated_by>chuck.tomasi</sys_updated_by>
-        <sys_updated_on>2022-01-15 16:29:48</sys_updated_on>
+        <sys_updated_on>2022-01-15 16:45:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

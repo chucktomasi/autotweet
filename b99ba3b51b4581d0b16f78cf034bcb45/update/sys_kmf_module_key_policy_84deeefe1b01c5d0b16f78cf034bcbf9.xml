@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="glide_encrypter">f566cacc5b32a0100c50534be281c7dc</crypto_module>
+        <key_type display_value="Symmetric Key Encryption Key">ca005cf7c7103300af4d43c6f0976328</key_type>
+        <last_enforced>2022-01-18 14:32:55</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2022-01-18 14:32:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>84deeefe1b01c5d0b16f78cf034bcbf9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="AutoTweet" source="x_snc_autotweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AutoTweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_84deeefe1b01c5d0b16f78cf034bcbf9</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2022-01-18 14:32:55</sys_updated_on>
+    </sys_kmf_module_key_policy>
+</record_update>

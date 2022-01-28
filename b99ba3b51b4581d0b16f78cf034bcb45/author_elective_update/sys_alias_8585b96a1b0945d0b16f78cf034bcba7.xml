@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_autotweet.Twitter_Auto_Tweet_Message</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Twitter Auto Tweet Message</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2022-01-17 15:44:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8585b96a1b0945d0b16f78cf034bcba7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_autotweet.Twitter_Auto_Tweet_Message</sys_name>
+        <sys_package display_value="AutoTweet" source="x_snc_autotweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AutoTweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_scope>
+        <sys_update_name>sys_alias_8585b96a1b0945d0b16f78cf034bcba7</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2022-01-17 15:44:32</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AutoTweet">b99ba3b51b4581d0b16f78cf034bcb45</application>
+        <file_path/>
+        <instance_id>6833e2dedbed7f4442b321c4059619fb</instance_id>
+        <instance_name>devprogramdev</instance_name>
+        <name>sys_alias_8585b96a1b0945d0b16f78cf034bcba7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_snc_autotweet.Twitter_Auto_Tweet_Message</id><multiple_connections>false</multiple_connections><name>Twitter Auto Tweet Message</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>chuck.tomasi</sys_created_by><sys_created_on>2022-01-17 15:44:32</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>8585b96a1b0945d0b16f78cf034bcba7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_autotweet.Twitter_Auto_Tweet_Message</sys_name><sys_package display_value="AutoTweet" source="x_snc_autotweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="AutoTweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_scope><sys_update_name>sys_alias_8585b96a1b0945d0b16f78cf034bcba7</sys_update_name><sys_updated_by>chuck.tomasi</sys_updated_by><sys_updated_on>2022-01-17 15:44:32</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1149432373</payload_hash>
+        <record_name>x_snc_autotweet.Twitter_Auto_Tweet_Message</record_name>
+        <reverted_from/>
+        <source>c51de7b91b4581d0b16f78cf034bcbc6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2022-01-17 15:44:32</sys_created_on>
+        <sys_id>2795fd6a1b0945d0b16f78cf034bcb56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e68b61e560000001</sys_recorded_at>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2022-01-17 15:44:32</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>2f95fd6a380945d09e04b0bfa2bdc355</update_guid>
+        <update_guid_history>2f95fd6a380945d09e04b0bfa2bdc355:1149432373</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2022-01-18 14:30:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>4c328e7df17b477ea921902ecbfc0c44</sys_id>
+        <sys_metadata>8585b96a1b0945d0b16f78cf034bcba7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_autotweet.Twitter_Auto_Tweet_Message</sys_name>
+        <sys_package display_value="AutoTweet" source="x_snc_autotweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AutoTweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_scope>
+        <sys_scope_delete display_value="">1e75d33b27394d95af6f3c3c8dd0d9b9</sys_scope_delete>
+        <sys_update_name>sys_alias_8585b96a1b0945d0b16f78cf034bcba7</sys_update_name>
+        <sys_update_version display_value="sys_alias_8585b96a1b0945d0b16f78cf034bcba7">2795fd6a1b0945d0b16f78cf034bcb56</sys_update_version>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2022-01-18 14:30:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

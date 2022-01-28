@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope">
+    <oauth_entity_scope action="INSERT_OR_UPDATE">
+        <in_default_profile>true</in_default_profile>
+        <name>tweet.read</name>
+        <oauth_entity display_value="Twitter Auto Tweet">85e3b5e61b0945d0b16f78cf034bcbf4</oauth_entity>
+        <oauth_entity_scope>tweet.read</oauth_entity_scope>
+        <sys_class_name>oauth_entity_scope</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2022-01-17 15:39:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cd74b12a1b0945d0b16f78cf034bcb3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tweet.read</sys_name>
+        <sys_package display_value="AutoTweet" source="x_snc_autotweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AutoTweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_scope>
+        <sys_update_name>oauth_entity_scope_cd74b12a1b0945d0b16f78cf034bcb3f</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2022-01-17 15:39:49</sys_updated_on>
+    </oauth_entity_scope>
+</record_update>

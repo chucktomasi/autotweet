@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="work_start" label="Scheduled" language="en" table="x_snc_autotweet_message">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <help/>
+            <hint/>
+            <label>Scheduled</label>
+            <language>en</language>
+            <name>x_snc_autotweet_message</name>
+            <plural>Scheduled</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2022-01-15 16:42:16</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>35afefbd1b4581d0b16f78cf034bcb4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Scheduled</sys_name>
+            <sys_package display_value="AutoTweet" source="x_snc_autotweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AutoTweet">b99ba3b51b4581d0b16f78cf034bcb45</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_autotweet_message_work_start_en</sys_update_name>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2022-01-15 16:42:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
